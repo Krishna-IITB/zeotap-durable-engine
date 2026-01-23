@@ -1,0 +1,13 @@
+# Binaries
+app
+*.exe
+
+# Databases
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
