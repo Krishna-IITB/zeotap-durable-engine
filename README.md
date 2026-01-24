@@ -562,10 +562,6 @@ For any questions about this submission:
 
 ---
 
-**Submission Date:** January 24, 2026  
-**Status:** ✅ Complete & Tested  
-**All Requirements Met:** Yes ✅  
-**Bonus Challenge Completed:** Yes ✅  
 
 *This README serves as documentation for Assignment 1. All code, tests, and examples are available in the GitHub repository. The `Prompts.txt` file contains all AI prompts used during development as required by the assignment instructions.*
-```
+
