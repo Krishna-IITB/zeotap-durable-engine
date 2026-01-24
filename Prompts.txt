@@ -1,0 +1,27 @@
+Prompts Used for Zeotap Durable Engine Assignment
+===================================================
+
+Author: Krishna (IIT Bombay)
+Date: January 24, 2026
+
+Key questions I used AI tools for while building the engine:
+
+1. "Basic architecture for durable workflow engine in Go" - Gemini
+2. "Implement generic step function in Go 1.21" - ChatGPT
+3. "SQLite setup and JSON serialization in Go" - Perplexity
+4. "Concurrent database writes handling in Go" - GitHub Copilot
+5. "Unique step IDs for loops using atomic counter" - ChatGPT
+6. "Employee onboarding workflow with parallel steps" - Gemini
+7. "Simulate process crash with Ctrl+C in Go" - Perplexity
+8. "Testing memoization - verify skip on restart" - GitHub Copilot
+9. "sqlite3 commands for database inspection" - ChatGPT
+10. "Professional README structure" - Gemini
+
+Tools used:
+- Gemini: Architecture and design patterns
+- ChatGPT: Go syntax and implementation details  
+- Perplexity: Best practices and debugging
+- GitHub Copilot: Code completion and suggestions
+
+Note: AI tools were used for guidance on syntax, best practices, and concept clarification. All design decisions, code implementation, testing, and debugging were done manually.
+
