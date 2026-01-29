@@ -1,6 +1,3 @@
-# Assignment 1: Building a Native Durable Execution Engine
-**Zeotap Software Engineer Intern Application**
-
 **GitHub:** [https://github.com/Krishna-IITB/zeotap-durable-engine](https://github.com/Krishna-IITB/zeotap-durable-engine)  
 **Submitted By:** Krishna, IIT Bombay (Electrical Engineering - Dual Degree)  
 **Contact:** [krishnasingh89200@gmail.com](mailto:krishnasingh89200@gmail.com)  
@@ -563,5 +560,5 @@ For any questions about this submission:
 ---
 
 
-*This README serves as documentation for Assignment 1. All code, tests, and examples are available in the GitHub repository. The `Prompts.txt` file contains all AI prompts used during development as required by the assignment instructions.*
+
 
